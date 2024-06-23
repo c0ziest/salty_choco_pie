@@ -12,7 +12,7 @@
 
 > `/질문` 명령어 사용 시 동의 확인 후 모달 출력
 > 모달 입력된 값을 지정된 채널에 출력 `targetServerId`의 `targetChannelId`
-> 끝났습니다! 이제 지원 담당자(contributors에 등록된 사용자)가 답변을 할 수 있습니다.
+> 끝났습니다! 이제 지원 담당자(`contributors`에 등록된 사용자)가 답변을 할 수 있습니다.
 
 ## Run this bot
 
