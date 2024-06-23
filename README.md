@@ -16,9 +16,9 @@
 
 ## Run This Bot (Windows)
 
-**1.** NodeJS 설치 [바로가기](https://nodejs.org/en/download/prebuilt-installer)
-**2.** 실행 `start.bat`
-**3.** 이제 씹고 뜯고 맛보고 즐기세요.
+**1.** NodeJS 설치 [바로가기](https://nodejs.org/en/download/prebuilt-installer)</br>
+**2.** 실행 `start.bat`</br>
+**3.** 이제 씹고 뜯고 맛보고 즐기세요.</br>
 
 ## Edit This Code
 
